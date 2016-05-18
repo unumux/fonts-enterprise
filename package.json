@@ -1,0 +1,19 @@
+{
+  "name": "fonts-enterprise",
+  "version": "1.0.0",
+  "description": "fonts for the Unum Group enterprise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unumux/fonts-enterprise.git"
+  },
+  "author": "Sara Kennedy <slkennedy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unumux/fonts-enterprise/issues"
+  },
+  "homepage": "https://github.com/unumux/fonts-enterprise#readme"
+}
