@@ -26,5 +26,15 @@
     font-style: italic;
 }
 
-$font-family-primary: 'Source Sans Pro', 'helvetica', 'arial', 'sans-serif' !default;
-$font-family-secondary: 'Source Sans Pro', 'helvetica', 'arial', 'sans-serif' !default;
+@font-face {
+    font-family: 'Oswald Light';
+    src: url('fonts/oswald-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+$font-family-base: 'Source Sans Pro', 'helvetica', 'arial', 'sans-serif' !default;
+$font-family-secondary: 'Oswald Light', 'helvetica', 'arial', 'sans-serif' !default;
+
+$font-size-base: 16px;
+$line-height-base: $font-size-base * 1.4;
